@@ -1,4 +1,4 @@
-# CSS Web
+# Simon
 
 > A page to play Simon Says
 
